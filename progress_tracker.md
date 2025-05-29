@@ -3,7 +3,7 @@
 | Day | Problem                       | Python ✅ | Golang ✅ |
 |-----|-------------------------------|-----------|-----------|
 | 1   | Two Sum                       | [✅]      | [✅]       |
-| 2   | Reverse a String              | [ ]       | [ ]       |
+| 2   | Reverse a String              | [✅]      | [✅]       |
 | 3   | Palindrome Check              | [ ]       | [ ]       |
 | 4   | Fibonacci Sequence            | [ ]       | [ ]       |
 | 5   | Factorial                     | [ ]       | [ ]       |
