@@ -8,7 +8,7 @@
 | 4   | Fibonacci Sequence            | [✅]      | [✅]       |
 | 5   | Factorial                     | [✅]      | [✅]       |
 | 6   | Merge Two Sorted Lists        | [✅]      | [✅]       |
-| 7   | Max Element in Array          | [ ]       | [ ]       |
+| 7   | Max Element in Array          | [✅]      | [✅]       |
 | 8   | Remove Duplicates from Array  | [ ]       | [ ]       |
 | 9   | Valid Anagram                 | [ ]       | [ ]       |
 | 10  | First Non-Repeating Character | [ ]       | [ ]       |
