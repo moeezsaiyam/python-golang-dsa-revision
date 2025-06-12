@@ -4,10 +4,10 @@
 |-----|-------------------------------|-----------|-----------|
 | 1   | Two Sum                       | [✅]      | [✅]       |
 | 2   | Reverse a String              | [✅]      | [✅]       |
-| 3   | Palindrome Check              | [ ]       | [ ]       |
-| 4   | Fibonacci Sequence            | [ ]       | [ ]       |
-| 5   | Factorial                     | [ ]       | [ ]       |
-| 6   | Merge Two Sorted Lists        | [ ]       | [ ]       |
+| 3   | Palindrome Check              | [✅]      | [✅]       |
+| 4   | Fibonacci Sequence            | [✅]      | [✅]       |
+| 5   | Factorial                     | [✅]      | [✅]       |
+| 6   | Merge Two Sorted Lists        | [✅]      | [✅]       |
 | 7   | Max Element in Array          | [ ]       | [ ]       |
 | 8   | Remove Duplicates from Array  | [ ]       | [ ]       |
 | 9   | Valid Anagram                 | [ ]       | [ ]       |
