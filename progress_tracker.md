@@ -9,8 +9,8 @@
 | 5   | Factorial                     | [✅]      | [✅]       |
 | 6   | Merge Two Sorted Lists        | [✅]      | [✅]       |
 | 7   | Max Element in Array          | [✅]      | [✅]       |
-| 8   | Remove Duplicates from Array  | [ ]       | [ ]       |
-| 9   | Valid Anagram                 | [ ]       | [ ]       |
+| 8   | Remove Duplicates from Array  | [✅]      | [✅]       |
+| 9   | Valid Anagram                 | [✅]      | [✅]       |
 | 10  | First Non-Repeating Character | [ ]       | [ ]       |
 | 11  | Move Zeroes to End            | [ ]       | [ ]       |
 | 12  | Intersection of Two Arrays    | [ ]       | [ ]       |
